@@ -7,4 +7,4 @@ How to start:
 
 3.Using pre installed npm, type command "npm install".
 
-4.After loading run with npm command "npm start".
+4.After loading, run with npm command "npm start".
