@@ -1,0 +1,18 @@
+{
+  "name": "backendnotes",
+  "version": "1.0.0",
+  "description": "BackendForNotes",
+  "main": "server.js",
+  "scripts": {
+    "start": "start http://localhost:8080/api & nodemon server.js"
+  },
+  "author": "Serkheev M.S.",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "nodemon": "^2.0.4"
+  }
+}
