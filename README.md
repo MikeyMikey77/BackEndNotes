@@ -1,8 +1,10 @@
 ﻿# BackEndNotes
 How to start:
 
-2.Open terminal/cmd or terminal in code editor.
+1.Open terminal/cmd or terminal in code editor.
 
-3.Set the path where the project is located.
+2.Set the path where the project is located.
 
-4.Using pre installed npm, run with npm command "npm start"
+3.Using pre installed npm, type command "npm install".
+
+4.After loading run with npm command "npm start".
