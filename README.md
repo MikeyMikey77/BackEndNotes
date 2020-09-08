@@ -1,5 +1,5 @@
 ﻿# BackEndNotes
-1.How to start:
+How to start:
 
 2.Open terminal/cmd or terminal in code editor.
 
